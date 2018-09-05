@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8b55f4ab542e62d2ad461f1b6c9ad6f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\407351e0f15df61672ba09b9da947d8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9f68c00339645d1642ae6e9ad9e9f9af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1f7ed11f53c7198b5a5519a7098c0e33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dc166d733d0a0cb8b9a2ca0ea684be14\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a885f8d0c20535515b1578d0b3615098\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\692641534b81907f7a3b7a8530c44275\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ae3211cd03e781d7429f1be4b0683fda\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\de665dbb83efa405984cc4b29242b33d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19eba4aa58c92f09eae49fef61ee0193\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2c7dc434b9502503a7596409fb9946ba\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:5:5-20:19
+	android:supportsRtl
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:11:9-40
+activity#br.com.jandira.senai.jogodaforca.JogoActivity
+ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:12:9-59
+	android:name
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:12:19-47
+activity#br.com.jandira.senai.jogodaforca.MainActivity
+ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:13:9-18:20
+	android:name
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8b55f4ab542e62d2ad461f1b6c9ad6f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8b55f4ab542e62d2ad461f1b6c9ad6f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\407351e0f15df61672ba09b9da947d8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\407351e0f15df61672ba09b9da947d8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9f68c00339645d1642ae6e9ad9e9f9af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9f68c00339645d1642ae6e9ad9e9f9af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1f7ed11f53c7198b5a5519a7098c0e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1f7ed11f53c7198b5a5519a7098c0e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dc166d733d0a0cb8b9a2ca0ea684be14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\dc166d733d0a0cb8b9a2ca0ea684be14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a885f8d0c20535515b1578d0b3615098\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a885f8d0c20535515b1578d0b3615098\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\692641534b81907f7a3b7a8530c44275\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\692641534b81907f7a3b7a8530c44275\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ae3211cd03e781d7429f1be4b0683fda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ae3211cd03e781d7429f1be4b0683fda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\de665dbb83efa405984cc4b29242b33d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\de665dbb83efa405984cc4b29242b33d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19eba4aa58c92f09eae49fef61ee0193\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\19eba4aa58c92f09eae49fef61ee0193\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2c7dc434b9502503a7596409fb9946ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\17259209\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2c7dc434b9502503a7596409fb9946ba\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\17259209\AndroidStudioProjects\JogodaForcaLA\app\src\main\AndroidManifest.xml
